@@ -46,6 +46,5 @@ public class MinMaxUnfairnessSubArray {
         Integer[] input = {1,4,7,2};
         int result = maxMin(2,Arrays.asList(input));
         System.out.println(result);
-
     }
 }
