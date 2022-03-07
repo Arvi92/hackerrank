@@ -4,7 +4,10 @@ public class Test {
 
     public static void main(String[] args)
     {
-        solve(10.25,17,5);
+        char i =5;
+        if(i ==5)
+            System.out.println("yes");
+     //   solve(10.25,17,5);
     }
 
     public static void solve(double meal_cost, int tip_percent, int tax_percent) {
